@@ -1,0 +1,31 @@
+.mybackground{
+    background-color: lightblue;
+}
+.container {
+    width: 1515px; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    position: relative; /* Needed for positioning absolute elements */
+    border: 1px solid black; /* Optional: Add a border for visual clarity */
+  }
+  
+  img {
+    width: 200px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .content-box {
+    top: 50px;
+    right: 20px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for the content box */
+    color: white; /* Text color */
+  }
+  .container {
+    background-image: url('tech.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
