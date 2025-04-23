@@ -2,15 +2,15 @@
     background-color: lightblue;
 }
 .container {
-    width: 1515px; /* Adjust as needed */
-    height: 300px; /* Adjust as needed */
+    width: 1515px; 
+    height: 300px; 
     position: relative; /* Needed for positioning absolute elements */
-    border: 1px solid black; /* Optional: Add a border for visual clarity */
+    border: 1px solid black; 
   }
   
   img {
-    width: 200px; /* Adjust as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 200px; 
+    height: auto; 
     position: absolute;
     top: 20px;
     left: 20px;
