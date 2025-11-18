@@ -1,1 +1,1 @@
-Profile with linked home page in the landing section.
+A profile featuring a linked home page integrated into the landing section. This setup provides a seamless and intuitive user experience, allowing visitors to navigate effortlessly to key areas of the site.
